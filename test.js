@@ -2,4 +2,4 @@ const webpack /* * */ /* \ / */ = require ('webpack')
 
 async function /* * */ /* \ / */ webpack () { }
 
-const thing = /.*\// as webpack.Entry
+const foo = async function bar() { var regex = /.*\//; function baz() { }  } 
